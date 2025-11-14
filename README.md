@@ -58,6 +58,28 @@ In this course, you will:
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+## 🎮 Bonus: Tic Tac Toe Game
+
+This repository now includes a fun **Tic Tac Toe game** where you can challenge an unbeatable AI!
+
+### How to Play
+
+1. Open the `tic-tac-toe.html` file in your web browser
+2. You play as **X** (blue), and the AI plays as **O** (purple)
+3. Click any cell to make your move
+4. The AI uses the **Minimax algorithm** - it's unbeatable!
+5. Track your scores across multiple games with the built-in scoreboard
+
+### Features
+
+- 🤖 Unbeatable AI opponent using the Minimax algorithm
+- 📊 Scoreboard that tracks wins, losses, and draws
+- 💾 Scores persist across browser sessions (saved in localStorage)
+- 🎨 Beautiful, modern UI with animations
+- ♻️ "New Game" and "Reset Score" buttons
+
+**Challenge:** Can you force a draw against the supercomputer? 🤔
+
 <footer>
 
 <!--
